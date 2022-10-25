@@ -1,0 +1,35 @@
+.tabcontainer{
+    width: 95%;
+    
+    border: 3px solid green;
+    border-radius:100px ;
+    /* padding-top: 20px; */
+    padding: 20px 40px 0px 100px;
+
+}
+
+.nav-pills{
+    height: 10px;
+}
+
+.nav-link{
+    padding: 0px 80px !important;
+  
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    height:143%;
+    margin-top: -7%;
+    margin-bottom: 12%;
+    border-radius: 200px !important;
+    
+}
+
+.arrowicon{
+    width: 20%;
+    font-size: 20px;
+}
+
+.arrow{
+    width: 10px;
+}
